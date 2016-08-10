@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hem&#39;s Blog</title>
+  <subtitle>Testing for Hexo</subtitle>
+  <link href="/MyHexoBlog/atom.xml" rel="self"/>
+  
+  <link href="https://hem1102.github.io/MyHexoBlog/"/>
+  <updated>2016-08-10T11:17:34.207Z</updated>
+  <id>https://hem1102.github.io/MyHexoBlog/</id>
+  
+  <author>
+    <name>Hem</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MyfirstPost</title>
+    <link href="https://hem1102.github.io/MyHexoBlog/2016/08/09/MyfirstPost/"/>
+    <id>https://hem1102.github.io/MyHexoBlog/2016/08/09/MyfirstPost/</id>
+    <published>2016-08-09T13:21:09.000Z</published>
+    <updated>2016-08-10T11:17:34.207Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="first-line"><a href="#first-line" class="headerlink" title="first line"></a>first line</h2><p>123456789123456</p>
+<p>123456789123456</p>
+<p>123456789123456</p>
+<p>123456789123456</p>
+<p>123456789123456</p>
+<p>123456789123456</p>
+<p>123456789123456</p>
+<p>123456789123456</p>
+<p>123456789123456</p>
+<h2 id="My-First-post"><a href="#My-First-post" class="headerlink" title="My First post"></a>My First post</h2><p>just test ( 0  A 0)//</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;first-line&quot;&gt;&lt;a href=&quot;#first-line&quot; class=&quot;headerlink&quot; title=&quot;first line&quot;&gt;&lt;/a&gt;first line&lt;/h2&gt;&lt;p&gt;123456789123456&lt;/p&gt;
+&lt;p&gt;123456789123456
+    
+    </summary>
+    
+    
+      <category term="tags" scheme="https://hem1102.github.io/MyHexoBlog/tags/tags/"/>
+    
+  </entry>
+  
+</feed>
